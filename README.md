@@ -1,5 +1,5 @@
 # Coding-Ninja-Java_Fundamentals
-This repo includes all java problems for Coding Ninja Java Fundamental course. Please give a star in this repo if you like it. More programs are uploaded soon.</br></br>
+This repo includes all java problems for Coding Ninja Java Fundamental course. Please give a star in this repo if you like it.</br></br>
 This repo includes:</br>
 <ol>
   <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/tree/main/Getting%20Started%20with%20Java'>Getting Started with Java</li>
@@ -61,49 +61,56 @@ This repo includes:</br>
       <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Functions%20%26%20Scope/Fibonacci_Number.java'>Fibonacci Number</li>
     </ul>
     
-  <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Arrays%20%26%20Lists'>Arrays & Lists</li>
+  <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/tree/main/Arrays%20-%201'>Arrays - 1</li>
     <ul>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Array%20Sum.py'>Array Sum</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Swap%20Alternate.py'>Swap Alternate</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Find%20Unique.py'>Find Unique</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Find%20Duplicate.py'>Find Duplicate</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Array%20Intersection.py'>Array Intersection</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Pair%20Sum.py'>Pair Sum</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Triplet%20Sum.py'>Triplet Sum</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Arrays%20%26%20Lists/Sort%200%201.py'>Sort 0 1</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Return_Array_Sum.java'>Return Array Sum</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Linear_Search.java'>Linear Search</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Arrange_Numbers_In_Array.java'>Arrange Numbers In Array</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Swap_Alternate.java'>Swap Alternate</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Find_Unique.java'>Find Unique</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Find_Duplicate.java'>Find Duplicate</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Array_Intersection.java'>Array Intersection</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Pair_Sum.java'>Pair Sum</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Triplet_Sum.java'>Triplet Sum</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%20-%201/Sort_0_1.java'>Sort 0 1</li>
     </ul>
     
-  <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Searching%20%26%20Sorting'>Searching & Sorting</li>
+  <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/tree/main/Arrays%202'>Arrays 2</li>
     <ul>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Code%20Binary%20Search.py'>Code Binary Search</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Code%20Bubble%20Sort.py'>Code Bubble Sort</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Code%20Insertion%20Sort.py'>Code Insertion Sort</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Code%20Merge%20Two%20Sorted%20Arrays.py'>Code Merge Two Sorted Arrays</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Push%20Zeros%20to%20end.py'>Push Zeros to end</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Rotate%20array.py'>Rotate array</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Second%20Largest%20in%20array.py'>Second Largest in array</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Check%20Array%20Rotation.py'>Check Array Rotation</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Sort%200%201%202.py'>Sort 0 1 2</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Searching%20%26%20Sorting/Sum%20of%20Two%20Arrays.py'>Sum of Two Arrays</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Binary_Search.java'>Code Binary Search</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Selection_Sort.java'>Selection Sort</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Bubble_Sort.java'>Code Bubble Sort</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Insertion_Sort.java'>Code Insertion Sort</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Merge_Two_Sorted_Arrays.java'>Code Merge Two Sorted Arrays</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Push_Zeros_to_end.java'>Push Zeros to end</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Rotate_array.java'>Rotate array</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Second_Largest_in_array.java'>Second Largest in array</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Check_Array_Rotation.java'>Check Array Rotation</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Sort_0_1_2.java'>Sort 0 1 2</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Arrays%202/Sum_of_Two_Arrays.java'>Sum of Two Arrays</li>
     </ul>
     
-  <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Strings'>Strings</li>
+  <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/tree/main/Strings'>Strings</li>
     <ul>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Check%20Palindrome.py'>Check Palindrome</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Check%20Permutation.py'>Check Permutation</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Remove%20Consecutive%20Duplicates.py'>Remove Consecutive Duplicates</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Reverse%20Each%20Word.py'>Reverse Each Word</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Remove%20character.py'>Remove character</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Highest%20Occuring%20Character.py'>Highest Occuring Character</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Compress%20the%20String.py'>Compress the String</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Count_Words.java'>Count Words</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/String_Palindrome.java'>String Palindrome</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/All_substrings.java'>All substrings</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Reverse_String_Wordwise.java'>Reverse String Wordwise</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Check_Permutation.java'>Check Permutation</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Remove_Consecutive_Duplicates.java'>Remove Consecutive Duplicates</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Reverse_Each_Word.java'>Reverse Each Word</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Remove_character.java'>Remove character</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Highest_Occuring_Character.java'>Highest Occuring Character</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Strings/Compress_the_String.java'>Compress the String</li>
     </ul>
     
-  <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Two%20Dimensional%20Lists'>Two Dimensional Lists</li>
+  <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/tree/main/Two%20Dimensional%20Arrays'>Two Dimensional Arrays</li>
     <ul>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Row%20Wise%20Sum.py'>Row Wise Sum</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Largest%20Row%20or%20Column.py'>Largest Row or Column</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Wave%20Print.py'>Wave Print</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Spiral%20Print.py'>Spiral Print</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Two%20Dimensional%20Arrays/Row_Wise_Sum.java'>Row Wise Sum</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Two%20Dimensional%20Arrays/Largest_Row_or_Column.java'>Largest Row or Column</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Two%20Dimensional%20Arrays/Boundaries_and_Diagonals_total_sum.java'>Total Sum on the Boundaries and Diagonals</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Two%20Dimensional%20Arrays/Print_Like_a_Wave.java'>Print Like a Wave</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Java_Fundamentals/blob/main/Two%20Dimensional%20Arrays/Print_Spiral.java'>Print Spiral</li>
     </ul> 
 </ol>
 
